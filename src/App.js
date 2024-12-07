@@ -4,7 +4,6 @@ import './test.css';
 import Test from './test';
 // import Demo from './demo';
 // import Clim from './clim';
-// import WeatherApp from './Abhay';
 // import Dict from './dict';
 function App(){
   return(
@@ -14,7 +13,6 @@ function App(){
       {/* <Demo/> */}
       {/* <Clim/> */}
       {/* <Dict/> */}
-      {/* <WeatherApp/> */}
     </div>
   )
 };

@@ -152,7 +152,7 @@ function Test() {
   return (
     <div>
       <div className="header">
-        <h1>Agriclim Website</h1>
+        <h1>weather website</h1>
         <div>
           <input
             type="text"

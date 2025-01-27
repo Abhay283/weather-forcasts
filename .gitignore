@@ -20,17 +20,7 @@
 
 npm-debug.log*
 yarn-debug.log*
-yarn-error.log*
-
-#src
-clim.js
-demo.js
-dict.js
-
-mode.js
-RealTime.js
-crop.js
-irrigation.js
+yarn-error*
 
 #Images
 cloud.png
